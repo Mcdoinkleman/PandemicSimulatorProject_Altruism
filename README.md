@@ -1,5 +1,7 @@
 # PandemicSimulator
 
+Note: this repository was cloned from the original in order to test the effects of altruism on the pandemic response.  Most files remain unchanged.
+
 This repository implements an agent-based pandemic simulator to analyse and optimize 
 mitigation policies that manage economic impact of pandemics without overwhelming hospital capacity. 
 Unlike traditional agent-based models, the simulator is able to model fine-grained interactions 
